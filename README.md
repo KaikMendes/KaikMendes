@@ -23,5 +23,7 @@ Atualmente, estudante de Data Science na FIAP (Faculdade de Informática e Admin
 
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0003672d-af61-4dff-a239-e575310898a2" />
+  
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a3c75287-eb9f-4c6e-bc8c-a1d4ae4edf8d" />
+
 </div>
